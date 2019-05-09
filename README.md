@@ -4,10 +4,8 @@
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/team-fry-hrr37-fec/cast-and-crew
+  - https://github.com/team-fry-hrr37-fec/video-player-and-carousel
 
 ## Table of Contents
 
@@ -17,7 +15,7 @@
 
 ## Usage
 
-> Some usage instructions
+> In order for this app to function properly you will need an API key from MovieGlu.
 
 ## Requirements
 
@@ -26,8 +24,6 @@ An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
 - Node 6.13.0
 - etc
 
-## Development
-
 ### Installing Dependencies
 
 From within the root directory:
@@ -35,5 +31,13 @@ From within the root directory:
 ```sh
 npm install -g webpack
 npm install
+```
+To start node.js server, run this command from root directory
+```
+npm run server-dev
+```
+If making changes to client code run this command from root directory
+```
+npm run react-dev
 ```
 

@@ -1,6 +1,6 @@
-# Movie Information Component
+# Fandangit
 
-> Module worked on for FEC
+> Fandangit is a full stack application built with React, Node / Express, and MongoDB. The module I worked on was the movie information as well as the navbar.
 
 ## Related Projects
 
